@@ -1,0 +1,16 @@
+{
+    "name": null,
+    "input_variables": [
+        "age",
+        "name"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "My name is {name} and I am {age} years old",
+    "template_format": "f-string",
+    "validate_template": false,
+    "_type": "prompt"
+}

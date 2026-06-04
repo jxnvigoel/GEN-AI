@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Mac
+.DS_Store
+
+# Virtual environments
+**/venv/
+**/.venv/
+**/venv312/
+
+# Secrets
+.env
+
+# Vector DBs
+chroma/
+.faiss/
