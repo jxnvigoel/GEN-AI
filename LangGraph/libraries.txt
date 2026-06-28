@@ -1,0 +1,4 @@
+pip3 install langgraph
+pip3 install langchain
+pip3 install langchain_groq
+pip3 install python-dotenv
